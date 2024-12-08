@@ -29,7 +29,7 @@ const Home = () => {
         <meta property="og:title" content="Leul Portfolio" />
         <meta
           property="og:description"
-          content="Explore the best Next.js and React.js portfolio by Elias Chane. Featuring simple, dark and light theme designs and mobile responsiveness."
+          content="Explore the best Next.js and React.js portfolio by Leul Abera . Featuring simple, dark and light theme designs and mobile responsiveness."
         />
         <meta property="og:image" content="" />
         <meta property="twitter:card" content="summary_large_image" />
